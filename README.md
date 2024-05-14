@@ -5,8 +5,8 @@
 # Like lemonade?
 ## Это веб-приложение для создания/оценки/улучшения авторских лимонадов. В процессе разработки.
 
-##Stack
-Nest, React, Postgres, Docker
+## Stack
+Nest, React, Postgres, Docker, TypeScript
 
 ## Installation
 
